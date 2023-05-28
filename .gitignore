@@ -1,0 +1,3 @@
+contracts/token/target/
+generated/contracts/erc20/target
+generated/src/target
